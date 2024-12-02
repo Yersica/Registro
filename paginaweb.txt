@@ -1,0 +1,1 @@
+http://localhost/phpmyadmin/index.php?route=/sql&db=passarela_queen&table=usuario&pos=0
